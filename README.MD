@@ -15,3 +15,4 @@ listos para se subidos al repositorio externo
 git blame git.html "quien tiene la culpa"
 git show
 pepelleva al indice
+arreglar
